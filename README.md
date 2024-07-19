@@ -1,5 +1,5 @@
 ¡Hola a tod@s!
-BirrApp es una apliación a modo de foro cervecero en la que los usuarios podrán encontrar un gran catálogo de cervezas y podrán dejar sus opiniones respecto a una cerveza en concreto.
+BirrApp es una apliación a modo de foro cervecero en la que los usuarios podrán encontrar un gran catálogo de cervezas, y podrán dejar sus opiniones de una cerveza en concreto.
 
 La apliación está en desarrollo y por el momento, apenas funciona, pero os dejo el APK para que podáis ir viendo en lo que se va a convertir!.
 
